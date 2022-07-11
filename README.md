@@ -1,5 +1,5 @@
 # CMPT-225
-Repository of class work done for CMPT 225: Data Structures and Algorithms
+_Repository of class work done for CMPT 225: Data Structures and Algorithms_
 
 _**Assignment: Walk in Bank Simulator**_
 
