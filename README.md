@@ -2,7 +2,7 @@
 _Repository of class work done for CMPT 225: Data Structures and Algorithms_
 
 _**Assignment 3: Translated Dictionary**_
-- This program reads in a user text file, storing it in a data type called Word Pair. The dictionary, written using a binary search tree, can return, search, and print its contents in alphabetical order. U
+- This program reads in a user text file, storing it in a data type called Word Pair. The dictionary, written using a binary search tree, can return, search, and print its contents in alphabetical order. 
 
 _**Assignment 4: Walk in Bank Simulator**_
 
