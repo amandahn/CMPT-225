@@ -12,7 +12,6 @@
 
 #pragma once
 
-// You can add #include statements if you wish.
 #include <string>
 #include "Patient.h"
 
@@ -23,11 +22,6 @@ class List  {
 
 private:
 
-/* 
- * You can add more attributes to this class, 
- * but you cannot remove the attributes below 
- * nor can you change them.
- */
 
 	const int INITIAL_CAPACITY = 5;    // constant INITIAL_CAPACITY
 	Patient* arr;                	   // Data structure of elements
@@ -36,13 +30,6 @@ private:
 
 public:
 
-/* 
- * You can add more private methods to this class, 
- * but you cannot remove the methods below 
- * nor can you change their prototype.
- * Bottom line: you cannot change the public interface of this List class.
- * 
- */
 
 	// Default constructor
 	List();
