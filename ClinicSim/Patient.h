@@ -22,7 +22,6 @@ class Patient {
 	
 private:
 
-// For you to fill: There are plenty of hints in the provided files to help you complete this section.
 string name;
 string address;
 string phone;
@@ -30,14 +29,6 @@ string email;
 string careCard;
 
 public:
-
-/* 
- * You can add more private methods to this class, 
- * but you cannot remove the methods below 
- * nor can you change their prototype.
- * Bottom line: you cannot change the public interface of this class.
- * 
- */
 
 	// Default Constructor
 	// Description: Create a patient with a care card number of "0000000000". 
