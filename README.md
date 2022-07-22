@@ -1,4 +1,4 @@
-# CMPT-225
+# CMPT 225, Spring 2022 - Data Structures and Algorithms
 _Repository of class work done for CMPT 225 - Data Structures and Algorithms_
 
 _**Assignment 1: Walk-In Clinic Simulator**_
