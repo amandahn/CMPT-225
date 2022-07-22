@@ -1,5 +1,5 @@
 # CMPT-225
-_Repository of class work done for CMPT 225: Data Structures and Algorithms_
+_Repository of class work done for CMPT 225 - Data Structures and Algorithms_
 
 _**Assignment 1: Walk-In Clinic Simulator**_
 - Simulates a walk-in clinic data interface, using a data type called Patient. Written using a position-oriented List ADT, this program has the ability to add, remove, return, search, and print the contents of this database.
